@@ -5,12 +5,7 @@
 ### Redes Socias | Social Media
 
 [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lb.Mello)
-
 [![LinkedIn](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@user-yl4rh8uh9j)
-
-<p>
-<a href="https://www.youtube.com/@user-yl4rh8uh9j" height="30" width="40" /></a>
-</p>
 
 ### Atuais Skills | Current Skilss 
 
