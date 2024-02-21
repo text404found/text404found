@@ -5,6 +5,7 @@
 ### Redes Socias | Social Media
 
 [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lb.Mello)
+[![Youtube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/@user-yl4rh8uh9j)
 
 <p>
 <a href="https://www.youtube.com/@user-yl4rh8uh9j" height="30" width="40" /></a>
