@@ -6,7 +6,6 @@
 
 [![HackRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fluiz7880)
 [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lb.Mello)
-[![HackRank](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@user-yl4rh8uh9j)
 
 ### Atuais Skills | Current Skilss 
 
