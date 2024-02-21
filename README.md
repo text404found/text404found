@@ -2,10 +2,6 @@
 
 ### Hello, My name is Luiz Felipe 👋 my english is not that good lol, but i try😒, i created this Github to post my progress, i want to be a Full-stack developer🤓
 
-### Contato | Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+o9Fw2oJBmhI0MTVh)
-
 ### Redes Socias | Social Media
 
 [![HackRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fluiz7880)
