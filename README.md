@@ -5,9 +5,8 @@
 ### Redes Socias | Social Media
 
 [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lb.Mello)
-<p>
-  <img src="https://sg-res.9appsdownloading.com/sg/res/jpg/20/65/4c542c9f87749648b675083d1025-7w2.jpg?x-oss-process=style/mq200" ></img>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@user-yl4rh8uh9j)
 
 <p>
 <a href="https://www.youtube.com/@user-yl4rh8uh9j" height="30" width="40" /></a>
