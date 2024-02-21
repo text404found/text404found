@@ -4,9 +4,13 @@
 
 ### Redes Socias | Social Media
 
-[![HackRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fluiz7880)
 [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lb.Mello)
-[![YouTube](https://www.youtube.com/@user-yl4rh8uh9j)]
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@user-yl4rh8uh9j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@user-yl4rh8uh9j" height="30" width="40" /></a>
+</p>
 
 ### Atuais Skills | Current Skilss 
 
