@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lb.Mello)
 
 <p>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@user-yl4rh8uh9j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@user-yl4rh8uh9j" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@user-yl4rh8uh9j" height="30" width="40" /></a>
 </p>
 
 ### Atuais Skills | Current Skilss 
